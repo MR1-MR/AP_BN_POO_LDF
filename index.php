@@ -159,6 +159,7 @@
     <meta charset="UTF-8">
     <title>Jeu - Bataille Navale</title>
     <style>
+        body { color: #304269; }
         table { border-collapse: collapse; margin: 20px auto; }
         td { width: 60px; height: 60px; text-align: center; border: 1px solid black; font-weight: bold; }
         form { text-align: center; }
